@@ -59,7 +59,7 @@ const config = {
         title: 'GroupListo',
         logo: {
           alt: 'GroupListo Logo',
-          src: 'img/favicon.svg',
+          src: 'img/logo.svg',
           height: 28,
         },
         items: [
