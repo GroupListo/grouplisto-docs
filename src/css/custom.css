@@ -51,8 +51,15 @@
 }
 
 /* Force navbar logo to be visible (override Docusaurus themed component hiding) */
+.navbar__logo {
+  width: 180px;
+  min-width: 180px;
+}
+
 .navbar__logo img {
   display: block !important;
+  width: 100%;
+  height: auto;
 }
 
 /* Sidebar styling */

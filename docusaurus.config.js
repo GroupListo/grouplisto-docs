@@ -56,11 +56,11 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'GroupListo',
+        title: '',
         logo: {
           alt: 'GroupListo Logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo.svg',
+          src: 'img/grouplisto-logo.svg',
+          srcDark: 'img/grouplisto-logo-white.svg',
           height: 28,
         },
         items: [
