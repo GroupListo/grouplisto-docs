@@ -60,6 +60,7 @@ const config = {
         logo: {
           alt: 'GroupListo Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo.svg',
           height: 28,
         },
         items: [
