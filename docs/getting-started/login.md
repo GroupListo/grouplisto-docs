@@ -10,7 +10,7 @@ Access your GroupListo account.
 
 ### Email and Password
 
-1. Go to [app.grouplisto.com](https://app.grouplisto.com)
+1. Go to [app.grouplisto.com](https://app.grouplisto.com/admin)
 2. Enter your **email address**
 3. Enter your **password**
 4. Click **Sign In**

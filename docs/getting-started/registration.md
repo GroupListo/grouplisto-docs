@@ -12,7 +12,7 @@ There are three ways to register for GroupListo:
 
 ### Option 1: Email Registration
 
-1. Go to [app.grouplisto.com](https://app.grouplisto.com)
+1. Go to [app.grouplisto.com](https://app.grouplisto.com/admin)
 2. Click **Register** or **Sign Up**
 3. Fill in your details:
    - **First Name** and **Last Name**
@@ -22,7 +22,7 @@ There are three ways to register for GroupListo:
 
 ### Option 2: Google Sign-In
 
-1. Go to [app.grouplisto.com](https://app.grouplisto.com)
+1. Go to [app.grouplisto.com](https://app.grouplisto.com/admin)
 2. Click **Continue with Google**
 3. Select your Google account
 4. Grant the required permissions
@@ -30,7 +30,7 @@ There are three ways to register for GroupListo:
 
 ### Option 3: Facebook Sign-In
 
-1. Go to [app.grouplisto.com](https://app.grouplisto.com)
+1. Go to [app.grouplisto.com](https://app.grouplisto.com/admin)
 2. Click **Continue with Facebook**
 3. Log in to your Facebook account
 4. Grant the required permissions

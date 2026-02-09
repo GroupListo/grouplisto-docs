@@ -7,7 +7,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'GroupListo Docs',
   tagline: 'Contact Management for Network Marketing Professionals',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags for Docusaurus v4 compatibility
   future: {
@@ -57,6 +57,10 @@ const config = {
       },
       navbar: {
         title: 'GroupListo',
+        logo: {
+          alt: 'GroupListo Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             type: 'docSidebar',
@@ -65,7 +69,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://app.grouplisto.com',
+            href: 'https://app.grouplisto.com/admin',
             label: 'Open App',
             position: 'right',
           },
@@ -101,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Open App',
-                href: 'https://app.grouplisto.com',
+                href: 'https://app.grouplisto.com/admin',
               },
               {
                 label: 'Website',
