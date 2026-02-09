@@ -1,7 +1,7 @@
 // @ts-check
 // GroupListo Documentation - Docusaurus Configuration
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,10 +57,6 @@ const config = {
       },
       navbar: {
         title: 'GroupListo',
-        logo: {
-          alt: 'GroupListo Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'docSidebar',
